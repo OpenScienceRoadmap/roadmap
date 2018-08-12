@@ -1,2 +1,2 @@
 # ecosystem
-A repository and issues for materials related to open science tools and their ecosystem.
+A repository and issues for materials related to a joint roadmap for open science tools and their ecosystem.
