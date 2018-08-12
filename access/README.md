@@ -1,1 +1,1 @@
-Artifacts related to access in the open science ecosystem.
+Artifacts related to access in the open science tools ecosystem.
