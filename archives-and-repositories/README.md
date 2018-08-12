@@ -1,1 +1,1 @@
-Artifacts related to open science archives and repositories.
+Artifacts related to archives and repositories in the open science tools ecosystem.
