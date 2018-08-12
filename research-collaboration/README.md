@@ -1,1 +1,1 @@
-Artifacts related to research collaboration in the open science ecosystem.
+Artifacts related to research collaboration in the open science tools ecosystem.
