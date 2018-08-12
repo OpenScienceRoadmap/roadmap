@@ -1,1 +1,1 @@
-Artifacts related to data mining in the open science ecosystem.
+Artifacts related to data mining in the open science tools ecosystem.
