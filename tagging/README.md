@@ -1,1 +1,1 @@
-Artifacts related to tagging in the open science ecosystem.
+Artifacts related to tagging in the open science tools ecosystem.
