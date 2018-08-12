@@ -1,2 +1,2 @@
 # roadmap
-A repository and issues for materials related to a joint roadmap for open science tools and their ecosystem.
+A repository for materials related to the development of a joint functional and technical roadmap for open science tools.
