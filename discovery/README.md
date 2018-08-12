@@ -1,1 +1,1 @@
-Artifacts related to discovery in the open science ecosystem.
+Artifacts related to search and discovery in the open science ecosystem.
